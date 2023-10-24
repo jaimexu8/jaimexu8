@@ -1,6 +1,6 @@
 # Hi, I'm Jaime
 
-I'm a Computer Science sophomore at Purdue University, and I'm passionate about building applications.
+I'm a Computer Science sophomore at Purdue University and a full-stack developer who's passionate about building applications.
 
 <!-- Links from https://dev.to/envoy_/150-badges-for-github-pnk -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,4 +26,4 @@ I'm a Computer Science sophomore at Purdue University, and I'm passionate about 
 
 [jaimexu.dev](https://jaimexu.dev)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimexu8/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimexu8/)
