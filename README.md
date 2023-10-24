@@ -26,4 +26,4 @@ I'm a Computer Science sophomore at Purdue University and a full-stack developer
 
 [jaimexu.dev](https://jaimexu.dev)
 
-![[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimexu8/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimexu8/)
