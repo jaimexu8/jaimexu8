@@ -22,8 +22,6 @@ I'm a Computer Science sophomore at Purdue University and a full-stack developer
 
 ![jaimexu8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimexu8&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-### Where to find me
-
 [jaimexu.dev](https://jaimexu.dev)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimexu8/)
