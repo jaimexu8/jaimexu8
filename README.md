@@ -1,8 +1,14 @@
-### [Checkout my website!](https://jaimexu.dev)
+<p align="center">
+  <samp>
+    Hey, I'm Jaime
+    <br/>
+    Senior in CS @ Purdue University
+    <br/>
+    Check out my <a href="https://jaimexu.dev">website!</a>
+    <br/>
+  </samp>
+</p>
 
-### About
-- Senior in CS @ Purdue University
-- Avid weightlifter, tennis player, and full-stack developer
-- Love to use React, Node.js, TypeScript, and Java
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimexu8)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimexu8" />
+</p>
