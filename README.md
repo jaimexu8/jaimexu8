@@ -8,7 +8,3 @@
     <br/>
   </samp>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimexu8" />
-</p>
